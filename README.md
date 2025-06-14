@@ -33,11 +33,6 @@ Aplicativo React Native para registro e visualização de Atividades, Desenvolvi
    - `npm run ios` para rodar no iOS
    - `npm run web` para rodar no navegador
 
-## Estrutura de Pastas
-- `screens/` — Telas principais do app
-- `styles/` — Estilos compartilhados
-- `assets/` — Imagens e ícones
-
 ## Configuração
 - Certifique-se de ter o [Expo Go](https://expo.dev/client) instalado no seu dispositivo móvel para testar o app.
 - O backend deve estar disponível em: `https://github.com/MechamoGui/Meu-Primeiro-App-React-Native`
