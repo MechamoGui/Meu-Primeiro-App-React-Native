@@ -1,4 +1,4 @@
-# Ocorrência App
+# Fetch & Store
 
 Aplicativo React Native para registro e visualização de Atividades, Desenvolvido com Expo.
 
